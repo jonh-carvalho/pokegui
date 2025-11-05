@@ -367,7 +367,7 @@ export default function App() {
     
     setSelectionOptions(pokemonData);
     setIsLoading(false);
-    setTimer(5); // Reinicia o timer
+    setTimer(15); // Reinicia o timer
   };
 
   /**
